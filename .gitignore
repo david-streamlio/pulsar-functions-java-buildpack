@@ -1,6 +1,7 @@
 ### IntelliJ IDEA ###
 .idea/
 *.iml
+pulsar-functions-java-buildpack.iml
 out/
 !**/src/main/**/out/
 !**/src/test/**/out/
